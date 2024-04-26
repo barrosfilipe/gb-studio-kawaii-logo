@@ -5,6 +5,9 @@
 
 ## About this logo
 
+> [!WARNING]
+> This is **NOT** an official logo.
+
 It was just a [**GB Studio**](https://www.gbstudio.dev) fan logo creation heavily inspired by [`SAWARATSUKI/ServiceLogos`](https://github.com/SAWARATSUKI/ServiceLogos)
 
 ## License
