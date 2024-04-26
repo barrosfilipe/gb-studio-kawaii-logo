@@ -10,6 +10,8 @@
 
 It was just a [**GB Studio**](https://www.gbstudio.dev) fan logo creation heavily inspired by [`SAWARATSUKI/ServiceLogos`](https://github.com/SAWARATSUKI/ServiceLogos)
 
+> _Explanation of the Japanese term featured in the logo:_ **Game Boy (ゲームボーイ Gēmu Bōi ?)**
+
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
